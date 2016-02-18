@@ -1,6 +1,7 @@
-# Webpack + Vue + Meteor Example
+# Webpack + Vue + Meteor Todo
 
-Example using Vue with Meteor, while leveraging the normal Webpack + NPM workflow for your front-end.
+Based on the official [template](https://github.com/vuejs/vue-webpack-meteor-example)
+
 
 ``` bash
 cd .client
